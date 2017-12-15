@@ -1,0 +1,15 @@
+{
+  "name": "wechat_web_login_node",
+  "version": "1.0.0",
+  "description": "wechat_api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "llc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
